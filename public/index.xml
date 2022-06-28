@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Cookbook</title>
+    <title>Shitgibbon Recipe Vault</title>
     <link>http://example.org/</link>
-    <description>Recent content on My Cookbook</description>
+    <description>Recent content on Shitgibbon Recipe Vault</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jan 2021 19:13:43 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Deviled Eggs</title>
+      <title>Cool pasta thing</title>
       <link>http://example.org/foo/</link>
       <pubDate>Sun, 24 Jan 2021 19:13:43 -0500</pubDate>
       
       <guid>http://example.org/foo/</guid>
-      <description>Ingredients 6 Eggs 1/4 Cup Mayonnaise 1/4 onion, finely chopped 1 teaspoon white vinegar 1 teaspoon yellow mustard 1/8 teaspoon salt 1 dash hot pepper sauce Black pepper Paprika, for garnish Directions Place eggs in a medium saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool and peel.</description>
+      <description>Ingredients  food thing other food thing  Directions  Do stuff Do other stuff  </description>
     </item>
     
   </channel>
